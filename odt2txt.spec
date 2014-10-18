@@ -1,7 +1,7 @@
 Summary:	A simple converter from OpenDocument Text to plain text
 Name:		odt2txt
 Version:	0.4
-Release:	2
+Release:	3
 License:	GPL v2
 Group:		Applications/Publishing
 Source0:	http://stosberg.net/odt2txt/%{name}-%{version}.tar.gz
